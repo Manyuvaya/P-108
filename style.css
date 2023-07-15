@@ -1,0 +1,23 @@
+
+img{
+    width:450px;
+    height:450px ;
+}
+/* #heading{
+    background-color: brown;
+    color:white;
+    
+
+} */
+#main_div{
+
+    background-color: lightskyblue;
+}
+
+h3{
+    color:darkorange;
+}
+footer{
+    font-size: 18px;
+    line-height: 3;
+}
